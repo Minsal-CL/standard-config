@@ -44,6 +44,8 @@
   "DASHBOARD_TAB_TRENDS_KEY": "Tendencias",
   "DASHBOARD_TAB_PATIENT_SUMMARY_KEY": "Resumen del paciente",
   "DASHBOARD_TITLE_IPS_LAC_KEY": "IPS LAC",
+  "DASHBOARD_TITLE_SERVICEREQUEST_KEY": "Interconsultas Transfronterizas",
+  "DASHBOARD_TITLE_MEDICATIONSTATEMENT_KEY": "Reporte de Medicamentos",
   "DASHBOARD_TAB_DISCHARGE_SUMMARY_KEY": "Resumen de alta",
   "DASHBOARD_TAB_ORDERS_KEY": "Órdenes",
 

@@ -74,7 +74,25 @@
                     "allowResolve": true,
                     "allowShare": true
                 }
-            },   
+            },
+            "service-request-react": {
+                "title": "Interconsultas Transfronterizas",
+                "name": "serviceRequest",
+                "type": "serviceRequestReact",
+                "displayOrder": 25,
+                "isObservation": false,
+                "hideEmptyDisplayControl": false,
+                "translationKey": "DASHBOARD_TITLE_SERVICEREQUEST_KEY"
+            },
+            "medication-statement-react": {
+                "title": "Reporte de Medicamentos",
+                "name": "medicationStatement",
+                "type": "medicationStatementReact",
+                "displayOrder": 26,
+                "isObservation": false,
+                "hideEmptyDisplayControl": false,
+                "translationKey": "DASHBOARD_TITLE_MEDICATIONSTATEMENT_KEY"
+            },
             "diagnosis":{
                 "translationKey":"DASHBOARD_TITLE_DIAGNOSIS_KEY",
                 "type":"diagnosis",
