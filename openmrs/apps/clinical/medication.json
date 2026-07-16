@@ -1,6 +1,5 @@
 {
-  "commonConfig": {
-  },
+  "commonConfig": {},
   "tabConfig": {
     "allMedicationTabConfig": {
       "orderSet": {
@@ -8,7 +7,7 @@
       },
       "inputOptionsConfig": {
         "defaultDurationUnit": "Días",
-        "hideOrderSet" : false,
+        "hideOrderSet": false,
         "defaultInstructions": "Segun indicacion",
         "durationUnitsFactors": [
           {
@@ -43,129 +42,129 @@
         ],
         "drugFormDefaults": {
           "Ayurvedic": {
-            "doseUnits": "Teaspoon",
+            "doseUnits": "Cucharadita",
             "route": "Oral"
           },
           "Capsule": {
-            "doseUnits": "Capsule",
+            "doseUnits": "Cápsula",
             "route": "Oral"
           },
           "Cream": {
-            "route": "Topical"
+            "route": "Topica"
           },
           "Disintegrating tablet": {
-            "doseUnits": "Tablet",
+            "doseUnits": "Comprimido",
             "route": "Oral"
           },
           "Drops": {
-            "doseUnits": "Drop",
-            "route": "Topical"
+            "doseUnits": "Gota",
+            "route": "Topica"
           },
           "Enteric-coated tablet": {
-            "doseUnits": "Tablet",
+            "doseUnits": "Comprimido",
             "route": "Oral"
           },
           "Food Supplement": {
-            "doseUnits": "Unit",
+            "doseUnits": "Unidad",
             "route": "Oral"
           },
           "Gas": {
-            "route": "Inhalation"
+            "route": "Inhalacion"
           },
           "Gel": {
-            "route": "Topical"
+            "route": "Topica"
           },
           "Granule": {
-            "doseUnits": "Unit",
+            "doseUnits": "Unidad",
             "route": "Oral"
           },
           "Inhalation": {
-            "doseUnits": "Puff",
-            "route": "Inhalation"
+            "doseUnits": "Bocanada",
+            "route": "Inhalacion"
           },
           "Inhaler": {
-            "doseUnits": "Puff",
-            "route": "Inhalation"
+            "doseUnits": "Bocanada",
+            "route": "Inhalacion"
           },
           "Inhalation powder": {
-            "doseUnits": "Puff",
-            "route": "Inhalation"
+            "doseUnits": "Bocanada",
+            "route": "Inhalacion"
           },
           "Injection": {
-            "doseUnits": "mg",
-            "route": "Intravenous"
+            "doseUnits": "Miligramo",
+            "route": "Intravenosa"
           },
           "Jelly": {
-            "route": "Topical"
+            "route": "Topica"
           },
           "Liquid": {
-            "doseUnits": "ml",
+            "doseUnits": "Mililitro",
             "route": "Oral"
           },
           "Lotion": {
-            "route": "Topical"
+            "route": "Topica"
           },
           "Nasal solution": {
-            "doseUnits": "ml",
+            "doseUnits": "Mililitro",
             "route": "Nasal"
           },
           "Ointment": {
-            "route": "Topical"
+            "route": "Topica"
           },
           "Oral capsule": {
-            "doseUnits": "Capsule",
+            "doseUnits": "Cápsula",
             "route": "Oral"
           },
           "Oral solution": {
-            "doseUnits": "ml",
+            "doseUnits": "Mililitro",
             "route": "Oral"
           },
           "Pessary": {
-            "doseUnits": "Unit",
-            "route": "Per Vaginal"
+            "doseUnits": "Unidad",
+            "route": "Por la vagina"
           },
           "Powder": {
-            "doseUnits": "mg",
-            "route": "Topical"
+            "doseUnits": "Miligramo",
+            "route": "Topica"
           },
           "Powder for injection": {
-            "doseUnits": "mg",
-            "route": "Intravenous"
+            "doseUnits": "Miligramo",
+            "route": "Intravenosa"
           },
           "Powder suspension": {
-            "doseUnits": "ml",
+            "doseUnits": "Mililitro",
             "route": "Oral"
           },
           "Solution": {
-            "doseUnits": "ml",
-            "route": "Topical"
+            "doseUnits": "Mililitro",
+            "route": "Topica"
           },
           "Spray": {
-            "doseUnits": "Puff",
+            "doseUnits": "Bocanada",
             "route": "Nasal"
           },
           "Sublingual tablet": {
-            "doseUnits": "Tablet",
+            "doseUnits": "Comprimido",
             "route": "Sub Lingual"
           },
           "Suppository": {
-            "doseUnits": "Unit",
-            "route": "Per Rectum"
+            "doseUnits": "Unidad",
+            "route": "Rectal"
           },
           "Suspension": {
-            "doseUnits": "ml",
+            "doseUnits": "Mililitro",
             "route": "Oral"
           },
           "Sustained-release tablet": {
-            "doseUnits": "Tablet",
+            "doseUnits": "Comprimido",
             "route": "Oral"
           },
           "Syrup": {
-            "doseUnits": "ml",
+            "doseUnits": "Mililitro",
             "route": "Oral"
           },
           "Tablet": {
-            "doseUnits": "Tablet",
+            "doseUnits": "Comprimido",
             "route": "Oral"
           }
         }

@@ -1,5 +1,19 @@
 <config>
   <globalProperties>
+    <!-- Identificadores del paciente en Registration.
+         Bahmni NO infiere qué identificador es "extra": hay que declararlo. El endpoint
+         /openmrs/ws/rest/v1/idgen/identifiertype devuelve el primario (bahmni.primaryIdentifierType)
+         + los listados en extraPatientIdentifierTypes; la GUI dibuja como adicionales los que vienen
+         con primary:false. Sin esta GP, crear el Identifier Type + su Identifier Source NO basta:
+         Registration no muestra nada (así se perdió el Pasaporte). Coma-separado si se agregan más. -->
+    <globalProperty>
+      <property>bahmni.primaryIdentifierType</property>
+      <value>d3153eb0-5e07-11ef-8f7c-0242ac120002</value>
+    </globalProperty>
+    <globalProperty>
+      <property>bahmni.extraPatientIdentifierTypes</property>
+      <value>5e926cc2-fc9b-43c9-85b1-02a51a326f2b</value>
+    </globalProperty>
     <globalProperty>
       <property>emrapi.visitExpireHours</property>
       <value>0</value>

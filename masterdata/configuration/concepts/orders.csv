@@ -1,2 +1,2 @@
-Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Description:en,Fully specified name:es,Short name:es,Description:es,Data class,Data type,Answers,Members,_version:1,_order:3000
-,,,All Orderables,All Orderables,,Todos los conceptos ordenables,Todos los conceptos ordenables,,ConvSet,N/A,,,,
+Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Description:en,Fully specified name:es,Short name:es,Synonym:es,Description:es,Data class,Data type,Answers,Members,_version:1,_order:3000
+d6344fab-5e07-11ef-8f7c-0242ac120002,,,All Orderables,All Orderables,Root set for orderable concepts,All Orderables,Ordenables,Todos los conceptos ordenables,Conjunto raiz de conceptos ordenables,ConvSet,N/A,,,,
